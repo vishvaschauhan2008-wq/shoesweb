@@ -1,1 +1,43 @@
 https://templateup.site/extreme/?storefront=envato-elements
+
+
+
+<img src="./src/acets/img/extreme-logo-2.png" alt="" class="ml-20 mt-15">
+<span class="text-white relative left-20">Our store is full of the best brands <br> of sports shoes on the world <br> market. We have over 10 years of <br> experience in export footwear.</span>
+<span class="text-amber-300 relative left-50 font-bold text-xl bottom-40">links</span>
+
+<div class="flex items-center  text-white relative bottom-30 justify-self-center right-55">
+
+  <span class="h-4 w-4 rounded-full border-2 border-yellow-500 "></span>
+<span class="font-bold ml-2">about Us</span>
+</div>
+
+<div class="flex items-center  text-white relative bottom-25 justify-self-center right-57 ">
+
+  <span class="h-4 w-4 rounded-full border-2 border-yellow-500 "></span>
+<span class="font-bold ml-2">Carrers</span>
+</div>
+
+<div class="flex items-center  text-white relative bottom-20 justify-self-center right-45">
+
+  <span class="h-4 w-4 rounded-full border-2 border-yellow-500 "></span>
+<span class="font-bold ml-3">Ask Your Questions</span>
+</div>
+
+<div class="flex items-center  text-white relative bottom-15 justify-self-center right-59">
+
+  <span class="h-4 w-4 rounded-full border-2 border-yellow-500 "></span>
+<span class="font-bold ml-2">Blog</span>
+</div>
+
+<div class="flex items-center  text-white relative bottom-10 justify-self-center right-56 ">
+
+  <span class="h-4 w-4 rounded-full border-2 border-yellow-500 "></span>
+<span class="font-bold ml-2">Contact</span>
+</div>
+
+<span class="text-amber-300 relative left-50 font-bold text-xl bottom-77 left-180">Contact Us</span>
+
+
+
+</div>
